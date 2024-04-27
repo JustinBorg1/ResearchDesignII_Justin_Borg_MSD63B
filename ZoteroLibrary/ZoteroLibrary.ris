@@ -1,0 +1,154 @@
+TY  - CONF
+TI  - Flower classification using CNN and transfer learning in CNN- Agriculture Perspective
+AU  - Narvekar, Chhaya
+AU  - Rao, Madhuri
+T2  - 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS)
+C1  - Thoothukudi, India
+C3  - 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS)
+DA  - 2020/12/03/
+PY  - 2020
+DO  - 10.1109/ICISS49785.2020.9316030
+DP  - DOI.org (Crossref)
+SP  - 660
+EP  - 664
+PB  - IEEE
+SN  - 978-1-72817-089-3
+UR  - https://ieeexplore.ieee.org/document/9316030/
+Y2  - 2024/03/13/08:50:23
+N1  - <div data-schema-version="8"><p>Explores flower classification using CNN and emphasizes the role of transfer learning from an agricultural perspective. Key insights on the adaptability of pre-trained models to specialized domains like agriculture.</p>
+</div>
+KW  - CNN
+KW  - Agriculture Classification
+KW  - Transfer Learning
+ER  - 
+
+TY  - JOUR
+TI  - A Case Study of Image Classification Based on Deep Learning Using Tensorflow
+AU  - Kothari, Jubin
+T2  - International Journal of Innovative Research in Computer and Communication Engineering
+AB  - This examination learns about image classification by utilizing the deep neural network (DNN) or otherwise called Deep Learning by utilizing system Tensor Flow. Python is utilized as a programming language since it meets up with the Tensor Flow system. The information chiefly centres in blossoms class, which there are five (5) sorts of blossoms that have been utilized in this paper. Deep neural network (DNN) has been picking as the ideal alternative for the preparation cycle since it delivered a high level of exactness. Results are talked about as far as the exactness of the image classification in rate. Roses get 90.585%, and same goes to another sort of blossoms where the normal of the outcome is up to 90% or more.
+DA  - 2018/04/15/
+PY  - 2018
+DP  - ResearchGate
+VL  - 6
+SP  - 3888
+EP  - 3892
+J2  - International Journal of Innovative Research in Computer and Communication Engineering
+L1  - files/143/Kothari - 2018 - A Case Study of Image Classification Based on Deep.pdf
+L4  - https://www.researchgate.net/publication/345149811_A_Case_Study_of_Image_Classification_Based_on_Deep_Learning_Using_Tensorflow
+N1  - <div data-schema-version="8"><p>Presents a case study of image classification using deep learning with TensorFlow, providing a practical example of implementing CNNs. Useful reference for understanding the workflow in TensorFlow and benchmarking.</p>
+</div>
+KW  - Deep learning
+KW  - Transfer Learning
+KW  - TensorFlow
+ER  - 
+
+TY  - CONF
+TI  - Medical image classification with convolutional neural network
+AU  - Li, Qing
+AU  - Cai, Weidong
+AU  - Wang, Xiaogang
+AU  - Zhou, Yun
+AU  - Feng, David Dagan
+AU  - Chen, Mei
+T2  - 2014 13th International Conference on Control Automation Robotics & Vision (ICARCV)
+C1  - Singapore
+C3  - 2014 13th International Conference on Control Automation Robotics & Vision (ICARCV)
+DA  - 2014/12//
+PY  - 2014
+DO  - 10.1109/ICARCV.2014.7064414
+DP  - DOI.org (Crossref)
+SP  - 844
+EP  - 848
+PB  - IEEE
+SN  - 978-1-4799-5199-4
+UR  - http://ieeexplore.ieee.org/document/7064414/
+Y2  - 2024/03/13/08:54:42
+N1  - <div data-schema-version="8"><p>Discusses medical image classification with CNNs, demonstrating the versatility of CNNs across different domains. The methodologies discussed could be adapted for plant classification problems.</p>
+</div>
+KW  - CNN
+KW  - Medical Imaging
+KW  - Image Classification
+ER  - 
+
+TY  - CONF
+TI  - Digital Image Classification for Malaysian Blooming Flower
+AU  - Siraj, Fadzilah
+AU  - Muhammad Ashraq, Salahuddin
+AU  - Mohd Yusof, Shahrul Azmi
+T2  - Proceedings - 2nd International Conference on Computational Intelligence, Modelling and Simulation, CIMSim 2010
+AB  - Digital image processing is a rapidly growing area of computer science since it was introduced and developed in the 1960's. In the case of flower classification, image processing is a crucial step for computer-aided plant species identification. Colour of the flower plays very important role in image classification since it gives additional information in terms of segmentation and recognition. On the other hand, Texture can be used to facilitate image-based retrieval system normally and it is encoded by a number of descriptors, which represented by a set of statistical measures such as gray-level co-occurrence matrix (GLCM) and Law's Order approach. This study addresses the application of NN and on image processing particularly for understanding flower image features. For predictive analysis, two techniques have been used namely, Neural Network (NN) and Logistic regression. The study shows that NN obtains the higher percentage of accuracy among two techniques. The MLP is trained by 1800 flower's dataset to classify 30 kinds of flower's type.
+DA  - 2010/10/30/
+PY  - 2010
+DO  - 10.1109/CIMSiM.2010.92
+DP  - ResearchGate
+SP  - 33
+EP  - 38
+L1  - files/149/Siraj et al. - 2010 - Digital Image Classification for Malaysian Bloomin.pdf
+L4  - https://www.researchgate.net/publication/224215082_Digital_Image_Classification_for_Malaysian_Blooming_Flower
+N1  - <div data-schema-version="8"><p>Investigates digital image classification for Malaysian blooming flowers, focusing on local species. Highlights cultural and regional considerations in image classification research.</p>
+</div>
+KW  - Image Classification
+KW  - Malaysian Blooming Flower
+KW  - Computational Intelligence
+ER  - 
+
+TY  - CONF
+TI  - Flower recognition system based on image processing
+AU  - Tiay, Tanakorn
+AU  - Benyaphaichit, Pipimphorn
+AU  - Riyamongkol, Panomkhawn
+T2  - 2014 Third ICT International Student Project Conference (ICT-ISPC)
+C1  - Nakhon Pathom, Thailand
+C3  - 2014 Third ICT International Student Project Conference (ICT-ISPC)
+DA  - 2014/03//
+PY  - 2014
+DO  - 10.1109/ICT-ISPC.2014.6923227
+DP  - DOI.org (Crossref)
+SP  - 99
+EP  - 102
+PB  - IEEE
+SN  - 978-1-4799-5573-2 978-1-4799-5572-5 978-1-4799-5571-8
+UR  - http://ieeexplore.ieee.org/document/6923227/
+Y2  - 2024/03/13/08:58:46
+N1  - <div data-schema-version="8"><p>Describes a flower recognition system based on image processing, which could provide a comparative view on different technical approaches outside of deep learning frameworks.</p>
+</div>
+KW  - Flower Recognition
+KW  - Image Processing
+KW  - ICT Conference
+ER  - 
+
+TY  - JOUR
+TI  - Literature Review on Flower Classification
+AU  - Gamit, Chaku
+AU  - Swadas, Prashant B
+AU  - Prajapati, Nilesh B
+T2  - International Journal of Engineering Research
+AB  - Many models are developed to extract flower features and identify its type or signature, various classification algorithms are used to check the accuracy of classification. There is large number of flowers available in the world and it is hard to remember all names of flowers so the system which is developed for identification of flower type is useful. In this paper we have present literature survey of various techniques used for flower classification.
+DP  - Zotero
+VL  - 4
+IS  - 02
+LA  - en
+L1  - files/154/Gamit et al. - Literature Review on Flower Classification.pdf
+N1  - <div data-schema-version="8"><p>Offers a literature review on flower classification, summarizing various approaches and techniques in the field. An excellent starting point for understanding the historical and methodological context.</p>
+</div>
+KW  - Flower Classification
+KW  - Literature Review
+KW  - Engineering Research
+ER  - 
+
+TY  - JOUR
+TI  - Image Classification with a Deep Learning Model for classifying Maltese endemic and non-endemic flowering plants.
+AU  - Borg, Justin
+AU  - Scerri, Darren
+AB  - Nowadays flower classification in Malta and around the world has increasingly become crucial for conservation efforts, medicinal research, botanical work and many other fields which rely on flower classification. This paper presents an approach of using Computer Vision to conduct flower image classification using a deep learning model specifically made to classify eight different types of flowering plants, including the Cheirolophus Crassifolius plant also known as the Maltese Centaury, Malta’s national plant. The process consists of using a Convolutional Neural Network (CNN) for image classification purposes, for the model’s architecture we followed the Keras Sequential model, alongside other popular image classification techniques, all of which is running on the TensorFlow platform. The proposed model managed to achieve its highest score result of 80% Validation accuracy and a class confidence overall result of 78.79%.
+DP  - Zotero
+LA  - en
+L1  - files/157/Borg and Scerri - Image Classification with a Deep Learning Model fo.pdf
+N1  - <div data-schema-version="8"><p>Details a deep learning model for classifying Maltese endemic and non-endemic flowering plants, presenting a localized approach to species classification with potential for further development and optimization.</p>
+</div>
+KW  - Maltese Flora
+KW  - Endemic Species
+KW  - Deep Learning Model
+ER  - 
+
